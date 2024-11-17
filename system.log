@@ -1,0 +1,466 @@
+Nov 17, 2024 9:14:29 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:29 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:29 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:29 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:29 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:29 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:30 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:30 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:30 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:30 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:30 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:30 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:31 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:31 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:31 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:31 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:31 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:31 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:32 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:32 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:32 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:32 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:32 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:32 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:33 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:33 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:33 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:33 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:33 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:33 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:34 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:34 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:34 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:34 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:34 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:34 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:35 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:35 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:35 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:35 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:35 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:35 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:36 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:36 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:36 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:36 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:36 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:36 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:37 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:37 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:37 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:37 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:37 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:37 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:38 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:38 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:38 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:38 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:38 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:38 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:39 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:39 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:39 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:39 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:39 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:39 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:40 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:40 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:40 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:40 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:40 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:40 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:41 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:41 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:41 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:41 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:41 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:41 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:42 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:42 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:42 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:42 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:42 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:42 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:43 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:43 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:43 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:43 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:43 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:43 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:44 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:44 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:44 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:44 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:44 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:44 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:45 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:45 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:45 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:45 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:45 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:45 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:46 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:46 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:46 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:46 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:46 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:46 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:47 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:47 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:47 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:47 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:47 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:47 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:48 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:48 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:48 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:48 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:48 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:48 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:49 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:49 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:49 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:49 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:49 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:49 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:50 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:50 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:50 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:50 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:50 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:50 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:51 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:51 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:51 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:51 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:51 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:51 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:52 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:52 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:52 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:52 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:52 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:52 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:53 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:53 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:53 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:53 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:53 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:53 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:54 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:54 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:54 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:54 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:54 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:54 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:55 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:55 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:55 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:55 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:55 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:55 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:56 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:56 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:56 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:56 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:56 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:56 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:57 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:57 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:57 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:57 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:57 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:57 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:58 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:58 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:58 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:58 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:58 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:58 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:59 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:59 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:59 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:59 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:14:59 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:14:59 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:00 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:00 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:00 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:00 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:00 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:00 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:01 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:01 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:01 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:01 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:01 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:01 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:02 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:02 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:02 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:02 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:02 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:02 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:03 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:03 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:03 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:03 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:03 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:49 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:49 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:49 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:49 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:49 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:50 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:50 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:50 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:50 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:50 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:50 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:50 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:51 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:51 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:51 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:51 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:51 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:51 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:52 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:52 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:52 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 10 tickets released by vendor.
+Nov 17, 2024 9:15:52 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:52 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.
+Nov 17, 2024 9:15:52 AM com.tiketing.logging.LoggerUtil logInfo
+INFO: 5 tickets purchased by Customer.

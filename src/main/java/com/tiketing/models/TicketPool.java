@@ -26,7 +26,7 @@ public class TicketPool {
         while (tickets.isEmpty()) {
             wait(); // Wait until tickets are available
         }
-        tickets.remove(0);
+        tickets.removeFirst();
         System.out.println("1 ticket purchased. Current pool: " + tickets.size());
         notifyAll(); // Notify waiting producers
     }
